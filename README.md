@@ -30,4 +30,4 @@
 
 [![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://fb.com/FB.KING.MAHIN.NAME.TOH.SONSO)
 [![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/FB.KING.MAHIN.NAME.TOH.SONSO)
-[![Github](https://img.shields.io/badge/Github-MAHADI-143green?style=for-the-badge&logo=github)](https://github.com/FB-KING)
+[![Github](https://img.shields.io/badge/Github-FB-KINGgreen?style=for-the-badge&logo=github)](https://github.com/FB-KING)
