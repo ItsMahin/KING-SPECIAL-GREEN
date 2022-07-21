@@ -1,4 +1,4 @@
-## EID SPECIAL GREEN LOVER PAID
+## KING SPECIAL GREEN LOVER PAID
 ## COMMAND
 `pkg install python`
 
@@ -14,11 +14,11 @@
 
 `pip install mechanize`
 
-`rm -rf EID-SPECIAL-GREEN`
+`rm -rf KING-SPECIAL-GREEN`
 
-`git clone https://github.com/FB-KING/EID-SPECIAL-GREEN`
+`git clone https://github.com/FB-KING/KING-SPECIAL-GREEN`
 
-`cd EID-SPECIAL-GREEN`
+`cd KING-SPECIAL-GREEN`
 
 `python FB-KING-SPECIAL-GREEN.py`
 
